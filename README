@@ -1,1 +1,9 @@
-oateuhn
+# minimal example of a "blog"
+
+for extra poinst:
+
+* sort the index (reverse cronological order)
+* error messages instead of crashing
+* markdown -> html etc
+* microcache or listen for changes
+
